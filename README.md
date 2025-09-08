@@ -30,3 +30,5 @@ Or just run the main method of RenderEngine inside your IDE.
 
 Once started, use the sliders around the window to adjust the rotation and field of view.
 The object will re-render in real-time.
+
+![img.png](img.png)
